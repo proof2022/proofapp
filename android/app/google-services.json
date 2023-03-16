@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "55167924775",
+    "project_id": "proofbe-48949",
+    "storage_bucket": "proofbe-48949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55167924775:android:9c78bf4558458c373b6c02",
+        "android_client_info": {
+          "package_name": "com.mycompany.proofv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55167924775-d6dlbv5k5pifgftfhr3snfg0djd7ih9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.proofv1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "55167924775-1g2hgfuv0s8ov5s84944ujet4857qgnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4UZ4igvyZyBApjkTLAMVN5bEt4xagL0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55167924775-1g2hgfuv0s8ov5s84944ujet4857qgnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55167924775-3rabl8squ1og7o997smkaqpi85hdvql9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proofv1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
